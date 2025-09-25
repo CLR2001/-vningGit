@@ -5,3 +5,4 @@ console.log("hej")
 
 if elias else if elias elias
 console.log("då");
+damn det funkar
